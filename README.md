@@ -1,5 +1,5 @@
 ## Description
-This small plugin created by OpenAI's ChatGPT adds a keyboard shortcut to TinyMCE to insert non-breaking spaces (`&nbsp;`) at the cursor position or in a selection with the key combination `Ctrl + Shift + Spacebar` known from Microsoft Word and LibreOffice Writer.
+This small plugin created by OpenAI's ChatGPT adds a keyboard shortcut to TinyMCE to insert non-breaking spaces (`&nbsp;`) at the cursor position or in a selection by pressing `Ctrl + Shift + Spacebar` at the same time, known from LibreOffice Writer and Microsoft Word.
 
 ## Installation general
 1. Place the files `plugin.js`, `plugin.min.js` and `plugin.min.js.gz` into the subfolder ```shortcut-nbsp``` of your TinyMCE `plugins` directory.
